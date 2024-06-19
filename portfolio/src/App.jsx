@@ -13,7 +13,7 @@ export default function App() {
   return (
     <BrowserRouter>
       <Header />
-      <div className="pageHeight">
+      <div className="view">
         <Routes>
           <Route path="/" element={<HomePage />} />
           <Route path="/portfolio" element={<PortfolioPage />} />
