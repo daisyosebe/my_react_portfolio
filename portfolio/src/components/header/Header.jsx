@@ -7,7 +7,7 @@ import "./Header.css"
 export default function Header(){
 
   return (
-    // <BrowserRouter>
+
       <div className="headerBox">
         <header>
           {/* Image link to homepage */}
@@ -17,6 +17,6 @@ export default function Header(){
           <Nav />
         </header>
       </div>
-    // </BrowserRouter>
+
   )
 }
