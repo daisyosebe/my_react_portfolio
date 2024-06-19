@@ -8,7 +8,6 @@ import Header from "./components/header/Header.jsx";
 import Footer from "./components/footer/Footer.jsx";
 
 
-// Exporting functionable component
 export default function App() {
 
   return (
