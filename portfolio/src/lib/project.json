@@ -10,5 +10,29 @@
       "image": "./dist/images/weatherapp.png",
       "title": "Weather App",
       "github": "https://github.com/daisyosebe/my_weather_app.git"
-    }
+    },
+    {
+        "id": 3,
+        "image": "./dist/images/weatherapp.png",
+        "title": "Weather App",
+        "github": "https://github.com/daisyosebe/my_weather_app.git"
+      },
+      {
+        "id": 4,
+        "image": "./dist/images/weatherapp.png",
+        "title": "Weather App",
+        "github": "https://github.com/daisyosebe/my_weather_app.git"
+      },
+      {
+        "id": 5,
+        "image": "./dist/images/weatherapp.png",
+        "title": "Weather App",
+        "github": "https://github.com/daisyosebe/my_weather_app.git"
+      },
+      {
+        "id": 6,
+        "image": "./dist/images/weatherapp.png",
+        "title": "Weather App",
+        "github": "https://github.com/daisyosebe/my_weather_app.git"
+      }
 ]
