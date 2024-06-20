@@ -1,38 +1,44 @@
 [
     {
       "id": 1,
-      "image": "./dist/images/texteditor.png",
-      "title": "Text Editor",
-      "github": "https://github.com/daisyosebe/text_editor.git"
+      "image": "./dist/images/passpour.png",
+      "title": "PassPour",
+      "github": "https://github.com/Kylebutcher/passpour.git",
+      "deployed": "https://passpour-1.onrender.com"
     },
     {
       "id": 2,
       "image": "./dist/images/weatherapp.png",
       "title": "Weather App",
-      "github": "https://github.com/daisyosebe/my_weather_app.git"
+      "github": "https://github.com/daisyosebe/my_weather_app.git",
+      "deployed": "https://daisyosebe.github.io/my_weather_app/"
     },
     {
         "id": 3,
-        "image": "./dist/images/weatherapp.png",
-        "title": "Weather App",
-        "github": "https://github.com/daisyosebe/my_weather_app.git"
+        "image": "./dist/images/purrmate.png",
+        "title": "PurrMate",
+        "github": "https://github.com/AnnaManrodt/purr-mate.git",
+        "deployed": "https://annamanrodt.github.io/purr-mate/"
       },
       {
         "id": 4,
-        "image": "./dist/images/weatherapp.png",
-        "title": "Weather App",
-        "github": "https://github.com/daisyosebe/my_weather_app.git"
+        "image": "./dist/images/myblog.png",
+        "title": "My Blog",
+        "github": "https://github.com/daisyosebe/my_blog.git",
+        "deployed": "https://daisyosebe.github.io/my_blog/"
       },
       {
         "id": 5,
-        "image": "./dist/images/weatherapp.png",
-        "title": "Weather App",
-        "github": "https://github.com/daisyosebe/my_weather_app.git"
+        "image": "./dist/images/taskboard.png",
+        "title": "Task Board",
+        "github": "https://github.com/daisyosebe/project_manager.git",
+        "deployed": "https://daisyosebe.github.io/project_manager/"
       },
       {
         "id": 6,
-        "image": "./dist/images/weatherapp.png",
-        "title": "Weather App",
-        "github": "https://github.com/daisyosebe/my_weather_app.git"
+        "image": "./dist/images/resumeprofile.png",
+        "title": "Resume Profile",
+        "github": "https://github.com/daisyosebe/resume_profile.git",
+        "deployed": "https://daisyosebe.github.io/resume_profile/"
       }
 ]
