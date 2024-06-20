@@ -1,0 +1,84 @@
+/* H2 styling */
+h2 {
+    text-align: center;
+    padding-bottom: 2rem;
+  }
+  
+  /* Project box styling */
+  .projects {
+    display: flex;
+    position: relative;
+    margin: 1.5rem auto;
+  }
+  
+  .projectBox {
+    position: relative;
+    margin: 0 auto;
+    width: 80%;
+  }
+  
+  .projectBox:hover .hfour {
+    visibility: visible;
+    opacity: 1;
+    transition: opacity .25s ease;
+  }
+  
+  .projectBox:hover .githubIcon {
+    visibility: visible;
+    opacity: 1;
+    transition: opacity .25s ease;
+  }
+  
+  .projectBox:hover .projectImage {
+    filter: brightness(50%);
+  }
+  
+  /* Project image styling */
+  .projectImage {
+    filter: brightness(80%);
+    justify-self: center;
+    height: 15rem;
+    width: 100%;
+    border: 2px solid var(--purple);
+    border-radius: 2.5rem;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px; 
+  }
+  
+  /* Project title styling */
+  .hfour {
+    position: absolute;
+    text-align: center;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    visibility: hidden;
+    opacity: 0;
+  }
+  
+  .hfour a {
+    text-decoration: none;
+    font-family: "Nunito", Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+    line-height: 1.5;
+    font-weight: 400;
+    font-style: normal;
+    color: var(--red);
+    letter-spacing: .5px;
+    font-style: italic;
+    font-size: 2rem;
+    text-shadow: 1px 1px 5px black;
+    filter: drop-shadow(3px 3px 2px black);
+    -webkit-text-stroke-width: .3px;
+    -webkit-text-stroke-color: var(--black);
+  }
+  
+  .githubIcon {
+    position: absolute;
+    left: 50%;
+    top: 25%;
+    visibility: hidden;
+    opacity: 0;
+    transform: translate(-50%, -50%);
+    height: 50px;
+    width: 50px;
+  }

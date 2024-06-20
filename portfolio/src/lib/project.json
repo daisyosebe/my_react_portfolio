@@ -1,13 +1,13 @@
 [
     {
       "id": 1,
-      "image": "",
+      "image": "./dist/images/texteditor.png",
       "title": "Text Editor",
       "github": "https://github.com/daisyosebe/text_editor.git"
     },
     {
       "id": 2,
-      "image": "",
+      "image": "./dist/images/weatherapp.png",
       "title": "Weather App",
       "github": "https://github.com/daisyosebe/my_weather_app.git"
     }

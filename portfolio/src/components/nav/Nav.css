@@ -1,0 +1,22 @@
+/* Nav styling */
+nav {
+    position: relative;
+    align-content: center;
+    margin-right: 1rem;
+  }
+  
+  /* Nav a tag element styling */
+  .navElement {
+    text-decoration: none;
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: fit-content;
+    margin: 0 35px;
+    color: white;
+    font-size: 1.75rem;
+    font-weight: bold;
+    font-style: italic;
+ 
+    }
+  

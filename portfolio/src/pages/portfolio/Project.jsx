@@ -10,7 +10,7 @@ export default function Project(){
         <div className="projectBox">
         <img className="projectImage"src={project.image} alt={project.title} />
         <h4 className="hfour"><a href={project.deployed} target="_blank">{project.title}</a></h4>
-        <a href={project.github} target="_blank"><img className="githubIcon" src="" alt="github icon" /></a>
+        <a href={project.github} target="_blank"><img className="githubIcon" src="./dist/images/github.JPG" alt="github icon" /></a>
         </div>
       </section>
     ));

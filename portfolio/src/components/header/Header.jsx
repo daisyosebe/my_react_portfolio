@@ -12,7 +12,7 @@ export default function Header(){
         <header>
           {/* Image link to homepage */}
           <div className="logoLink">
-            <Link to="/"><img className="logo" src="" alt="" /></Link>
+            <Link to="/"><img className="logo" src="./dist/images/Daisy.png" alt="" /></Link>
           </div>
           <Nav />
         </header>
