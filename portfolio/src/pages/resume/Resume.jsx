@@ -1,19 +1,16 @@
 // imports
-// import resumeFile from ''; // resume pdf file
+
 import './Resume.css';
 
 // exports
 export default function Resume() {
   return (
     <section className='resume'>
-      <h2 className='resume-title'>Resumé</h2>
-      {/* link/button to download resume pdf */}
-      {/* <a href={resumeFile} download='' target='_blank' rel='noreferrer' className='resumeBtn'>
-        <button id='resumeBtn' type='submit'>Click Here to Download My Resumé</button>
-      </a> */}
+      <h2 className='resume-title'>Resume</h2>
+      <a href="./dist/resumedaisy.pdf" download><h3>Resume Download</h3></a>
 
-      <div className='prof'>
-        <ul className='listgrp'>
+      <div className='wholelist'>
+        <ul className='listgroup'>
           <h3 className='subtitle'>Front-end Development</h3>
           <li className='list'>CSS</li>
           <li className='list'>Bootstrap</li>
@@ -21,7 +18,7 @@ export default function Resume() {
           <li className='list'>JQuery</li>
           <li className='list'>React</li>
         </ul>
-        <ul className='listgrp'>
+        <ul className='listgroup'>
           <h3 className='subtitle'>Back-end Development</h3>
           <li className='list'>APIs</li>
           <li className='list'>MongoDB, Mongoose</li>

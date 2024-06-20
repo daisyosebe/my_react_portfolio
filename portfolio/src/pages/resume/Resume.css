@@ -1,0 +1,37 @@
+/* Footer.css */
+
+.footerBox {
+    background-color: #333; /* Dark background color */
+    padding: 20px 0; /* Vertical padding for spacing */
+    text-align: center; /* Center align text */
+    color: #fff; /* White text color */
+  }
+  
+  footer {
+    display: flex;
+    justify-content: center; /* Center content horizontally */
+    align-items: center; /* Center content vertically */
+    flex-direction: column; /* Stack items vertically */
+  }
+  
+  .profileLink {
+    margin: 10px 0; /* Vertical margin for spacing */
+  }
+  
+  .profileLink a {
+    margin: 0 15px; /* Horizontal margin between links */
+    transition: transform 0.2s; /* Smooth transition for transform */
+  }
+  
+  .profileLink a:hover {
+    transform: scale(1.1); /* Slightly enlarge the icon on hover */
+  }
+  
+  .profileLink img {
+    width: 40px; /* Fixed width for icons */
+    height: 40px; /* Fixed height for icons */
+    border-radius: 50%; /* Rounded icons */
+    border: 2px solid #fff; /* White border around icons */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Subtle shadow effect */
+  }
+  
