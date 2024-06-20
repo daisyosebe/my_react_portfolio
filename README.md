@@ -6,7 +6,7 @@
 
 ```
 
-On Initial Load:
+# On Initial Load:
 
 The page displays a header, content section, and footer.
 
