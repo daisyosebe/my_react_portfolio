@@ -1,0 +1,37 @@
+/* Footer.css */
+
+.footerBox {
+    background-color: #333; 
+    padding: 20px 0; 
+    text-align: center; 
+    color: #fff; 
+  }
+  
+  footer {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    flex-direction: column; 
+  }
+  
+  .profileLink {
+    margin: 10px 0; 
+  }
+  
+  .profileLink a {
+    margin: 0 15px; 
+    transition: transform 0.2s; 
+  }
+  
+  .profileLink a:hover {
+    transform: scale(1.1); 
+  }
+  
+  .profileLink img {
+    width: 40px; 
+    height: 40px;
+    border-radius: 50%;
+    border: 2px solid #fff; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); 
+  }
+  
