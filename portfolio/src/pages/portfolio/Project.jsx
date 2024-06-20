@@ -9,7 +9,7 @@ export default function Project(){
       <section key={project.id} className="projects col-6 col-md-4">
         <div className="projectBox">
         <img className="projectImage"src={project.image} alt={project.title} />
-        <h4 className="hfour"><a href={project.deployed} target="_blank">{project.title}</a></h4>
+        <h4 className="text"><a href={project.deployed} target="_blank">{project.title}</a></h4>
         <a href={project.github} target="_blank"><img className="githubIcon" src="./dist/images/github.JPG" alt="github icon" /></a>
         </div>
       </section>
