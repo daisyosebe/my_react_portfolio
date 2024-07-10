@@ -6,7 +6,7 @@
 
 ```
 
-# On Initial Load:
+On Initial Load:
 
 The page displays a header, content section, and footer.
 
@@ -61,7 +61,7 @@ Provides a link to download the resume and lists proficiencies.
 
 Footer Details:
 
-Includes text or icon links to GitHub, LinkedIn profiles, and facebook profile.
+Includes icon links to GitHub, LinkedIn profiles, and Facebook profiles.
        
 ```
 
@@ -74,15 +74,15 @@ Includes text or icon links to GitHub, LinkedIn profiles, and facebook profile.
 >
 
 
-## GitHub Repo/Rendered application/Screenshots/Video
+## GitHub Repo/Rendered application and Video
 
 Repo Link: (https://github.com/daisyosebe/my_react_portfolio.git)
 
 Rendered Link: (https://my-react-portfolio-3dhf.onrender.com)
 
-SCREENSHOTS:
+VIDEO:
 
-
+[Untitled_ Jun 20, 2024 9_15 AM.webm](https://github.com/daisyosebe/my_react_portfolio/assets/145105156/765854fb-415e-4d48-a0bb-3c7e99187575)
 
 
 ## Resources
